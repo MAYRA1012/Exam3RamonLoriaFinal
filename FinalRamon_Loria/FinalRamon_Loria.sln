@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalRamon_Loria", "FinalRamon_Loria\FinalRamon_Loria.csproj", "{DC47027D-0FBE-4DAB-AA2F-7D655D7528FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC47027D-0FBE-4DAB-AA2F-7D655D7528FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC47027D-0FBE-4DAB-AA2F-7D655D7528FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC47027D-0FBE-4DAB-AA2F-7D655D7528FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC47027D-0FBE-4DAB-AA2F-7D655D7528FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC8FE31-0E86-4570-8627-FF79BC9F4B57}
+	EndGlobalSection
+EndGlobal
